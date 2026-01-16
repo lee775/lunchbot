@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-expo-app@latest . --template blank)",
+      "Bash(npm run web:*)",
+      "Bash(npx expo install:*)",
+      "Bash(npx expo start:*)",
+      "Bash(npm install:*)",
+      "Bash(npx eas build:*)",
+      "Bash(git init:*)",
+      "Bash(gh auth:*)",
+      "Bash(winget install:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
