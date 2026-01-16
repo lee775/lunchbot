@@ -12,7 +12,10 @@
       "Bash(winget install:*)",
       "Bash(git config:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\nfeat: 랜덤 메뉴 선택 앱 완성\n\n- 118개 한식/양식/일식/중식 메뉴\n- 룰렛 효과 애니메이션\n- 다크 테마 UI\n- EAS Build 설정 \\(APK 빌드 가능\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nfeat: 랜덤 메뉴 선택 앱 완성\n\n- 118개 한식/양식/일식/중식 메뉴\n- 룰렛 효과 애니메이션\n- 다크 테마 UI\n- EAS Build 설정 \\(APK 빌드 가능\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
     ]
   }
 }
